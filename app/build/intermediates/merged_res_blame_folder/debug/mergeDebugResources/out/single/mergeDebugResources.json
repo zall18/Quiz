@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_baseline_format_list_bulleted_24.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\layout_numberitem.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\layout\\numberitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\layout_activity_main_quiz.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\layout\\activity_main_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\layout_activity_skor.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\layout\\activity_skor.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_baseline_question_mark_24.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\baseline_question_mark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_rounded_top.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\rounded_top.xml"
+    },
+    {
+        "merged": "com.example.quizzinaja4.app-debug-31:/layout_activity_skor.xml.flat",
+        "source": "com.example.quizzinaja4.app-main-33:/layout/activity_skor.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_quizin1.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\quizin1.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\layout_quizitem.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\layout\\quizitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-debug-31:\\drawable_rounded_botto.xml.flat",
+        "source": "C:\\Users\\smkyp\\.gradle\\daemon\\8.4\\com.example.quizzinaja4.app-main-33:\\drawable\\rounded_botto.xml"
+    }
+]
